@@ -114,6 +114,7 @@ recipeDependencies {
 
     parserClasspath("org.apache.httpcomponents.core5:httpcore5:5.1.+")
     parserClasspath("org.apache.httpcomponents.client5:httpclient5:5.1.+")
+    parserClasspath("io.rest-assured:rest-assured:5.5.+")
 
     parserClasspath("jakarta.servlet:jakarta.servlet-api:6.1.+")
     parserClasspath("io.micrometer:micrometer-commons:1.11.+")
